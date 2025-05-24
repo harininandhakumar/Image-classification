@@ -40,3 +40,10 @@ Finally, the training and validation accuracies stored in the history object are
 
 
 OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/9877d7f4-b3b7-4a15-9ea3-dc33c03f9dfd)
+![Image](https://github.com/user-attachments/assets/8f928c8b-8e60-4679-bc9a-c826629ce457)
+![Image](https://github.com/user-attachments/assets/b7f425f2-f340-42ee-8275-5413dbd14962)
+![Image](https://github.com/user-attachments/assets/d7d5ac4d-344e-4e48-9bfd-f02fe8875e69)
+![Image](https://github.com/user-attachments/assets/3936ea84-869f-4079-8f41-329ceddfd96f)
+![Image](https://github.com/user-attachments/assets/cffe51b7-57fb-4129-a68e-4b4447100f78)
